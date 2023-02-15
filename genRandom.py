@@ -5,5 +5,3 @@ print(random.randrange(5))
 
 print("Random number between 99 and 199 using random.randint function: ")
 print(random.randint(99,299))
-
-print(random.randrange(100))
